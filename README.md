@@ -3,5 +3,4 @@
 descrption
 Another description
 
-##Local developmet
-have fun
+##Local development
